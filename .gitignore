@@ -1,3 +1,10 @@
+data/
+data2/
+advanced-pyspark-for-exploratory-data-analysis.ipynb
+machine-learning-with-spark.ipynb
+[25-70].csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
